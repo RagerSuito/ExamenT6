@@ -12,7 +12,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>paquete.Interfazlogin</mainClass>
+                            <mainClass>paquete.InterfazLogin</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
